@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kxi:home|Door43 (kxi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kxi|d43-kxi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kxi/archive/master.zip|d43-kxi.zip]]
+
+**Recent Changes**
+{{changes>ns = kxi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kxi|Ethnologue data]]
+
